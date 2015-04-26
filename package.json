@@ -1,0 +1,33 @@
+{
+  "name": "company-frontend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edazdarevic/company-frontend.git"
+  },
+  "author": "Edin Dazdarevic",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/edazdarevic/company-frontend/issues"
+  },
+  "devDependencies": {
+    "reactify": "~1.1.0",
+    "broccoli": "~0.16.2",
+    "broccoli-browserify": "~0.1.0",
+    "broccoli-merge-trees": "~0.2.1",
+    "broccoli-fast-browserify": "~0.2.5",
+    "broccoli-static-compiler": "~0.2.1",
+    "superagent": "~1.2.0"
+  },
+  "dependencies": {
+    "flux": "~2.0.1",
+    "react": "~0.13.2",
+    "underscore": "~1.8.3",
+    "events": "~1.0.2"
+  }
+}

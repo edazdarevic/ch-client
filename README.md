@@ -1,1 +1,1 @@
-# ch-client
+# company-frontend
